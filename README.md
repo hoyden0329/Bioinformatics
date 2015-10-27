@@ -1,4 +1,3 @@
-# Bioinformatics
 ## Categories of Knowledge for Bioinformatics Education
 
 U = Undergrad. level
