@@ -69,7 +69,6 @@ These go beyond Basic Math (calculus), Biology, Chemistry & Physics taught in pr
 
 #### Prominent Stat/CS Topics NOT included 
 - Interrupts
-- Parallel programming
 - Machine language
 - Compiler design
 - Computer Graphics
