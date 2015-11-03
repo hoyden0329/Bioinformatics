@@ -99,10 +99,13 @@ These go beyond Basic Math (calculus), Biology, Chemistry & Physics taught in pr
 		- Synteny
 		- Function Classification & Orthologs
 	- Genome Annotation
-		- Gene Prediction
-		- Regulatory site and network prediction
-		- miRNA prediction and targeting site prediction
-		- Pseudogene prediction and functional prediction
+		- Coding
+			- Gene Prediction
+			- Functional Annotation
+		- Non-coding
+			- Regulatory site and network prediction
+			- miRNA prediction and targeting site prediction
+			- Pseudogene prediction and functional prediction
 
 #### Next-Gen Sequencing Data Processing
 - Variant Calling
@@ -121,6 +124,7 @@ These go beyond Basic Math (calculus), Biology, Chemistry & Physics taught in pr
 - DNA methylation & epigenetic gene regulation
 	- ChIP-seq
 	- Peak calling
+	- CLIP-seq
 - Metagenomics (microbiome) [GA]
 
 #### Statistical Genetics [GA]
